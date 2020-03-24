@@ -1,0 +1,2 @@
+Book:
+  Horstmann, Cay S., and Martin Odersky. Scala for the Impatient. Addison-Wesley, 2017.
